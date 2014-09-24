@@ -1,0 +1,5 @@
+c:\users\nfabian\documents\visual studio 2010\Projects\NameValuePairUtility\NameValuePairUtility\bin\NameValuePairUtility.dll
+c:\users\nfabian\documents\visual studio 2010\Projects\NameValuePairUtility\NameValuePairUtility\bin\NameValuePairUtility.pdb
+c:\users\nfabian\documents\visual studio 2010\Projects\NameValuePairUtility\NameValuePairUtility\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nfabian\documents\visual studio 2010\Projects\NameValuePairUtility\NameValuePairUtility\obj\Debug\NameValuePairUtility.dll
+c:\users\nfabian\documents\visual studio 2010\Projects\NameValuePairUtility\NameValuePairUtility\obj\Debug\NameValuePairUtility.pdb
